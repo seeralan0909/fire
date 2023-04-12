@@ -1,3 +1,3 @@
-number=(1,2,34,5)
-li=(65,7,9,2)
+number=(1,2,34,50)
+li=(5,7,9,2)
 print(li+number)
